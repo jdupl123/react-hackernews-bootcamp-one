@@ -1,0 +1,17 @@
+.myClass {
+  border: 0.125rem dashed red;
+}
+
+
+.pos {
+	
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.title {
+	font-size: 2rem;
+	color: darkblue;
+	padding-bottom: 1rem;
+}
